@@ -1,0 +1,12 @@
+export class Book {
+    isbn: string;
+    title: string;
+    subTitle: string;
+    author: string;
+    publish_date: Date;
+    publisher: string;
+    pages: number;
+    description: string;
+    website: string;
+
+}
